@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-28T11:24:19 IST" name="Default suite" finished-at="2022-06-28T11:24:58 IST" duration-ms="39890">
+    <groups>
+    </groups>
+    <test started-at="2022-06-28T11:24:19 IST" name="Default test" finished-at="2022-06-28T11:24:58 IST" duration-ms="39890">
+      <class name="TestCases.TC01_Add_Nationalities">
+        <test-method is-config="true" signature="TestSetup()[pri:0, instance:TestCases.TC01_Add_Nationalities@194bcebf]" started-at="2022-06-28T11:24:19 IST" name="TestSetup" finished-at="2022-06-28T11:24:35 IST" duration-ms="16954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSetup -->
+        <test-method signature="Test1_Nationality()[pri:0, instance:TestCases.TC01_Add_Nationalities@194bcebf]" started-at="2022-06-28T11:24:36 IST" name="Test1_Nationality" finished-at="2022-06-28T11:24:58 IST" duration-ms="22333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1_Nationality -->
+        <test-method is-config="true" signature="TestCloser()[pri:0, instance:TestCases.TC01_Add_Nationalities@194bcebf]" started-at="2022-06-28T11:24:58 IST" name="TestCloser" finished-at="2022-06-28T11:24:58 IST" duration-ms="548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCloser -->
+      </class> <!-- TestCases.TC01_Add_Nationalities -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
